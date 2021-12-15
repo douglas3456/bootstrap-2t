@@ -1,0 +1,35 @@
+header{
+    background-image: url("https://www.escolhaviajar.com/wp-content/uploads/2016/11/praias-mais-lindas-do-mundo-19-1024x675.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center center;
+    height: 300px;
+}
+header h1{
+    margin-top: 45px;
+    color:white;
+    text-align: center;
+    font-size: 50px;    
+}
+ul.nav a {
+color:white;
+}
+
+
+    
+
+footer{
+    background-color:gainsboro;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+footer .card{
+    background-color: transparent;
+    border:none;
+ 
+    
+}
+footer .card h5{
+    text-align: center;
+}
